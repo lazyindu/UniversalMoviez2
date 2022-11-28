@@ -14,7 +14,7 @@ Here is the help for my COMMANDS."""
 - This is my private BOT. so i cant share code.  
 
 <b>Join:</b>
-- <a href=https://t.me/UniversalMoviez2>UniversalMoviez2</a>"""
+- <a href=https://t.me/Moviesadda24_7>Moviesadda24_7</a>"""
     MANUELFILTER_TXT = """Help: <b>Filters</b>
 
 - Filter is the feature were users can set automated replies for a particular keyword and LazyPriness will respond whenever that keyword hits the message
@@ -39,7 +39,7 @@ Here is the help for my COMMANDS."""
 3. Buttons should be properly parsed as markdown format
 
 <b>URL buttons:</b>
-<code>[Button Text](buttonurl:https://t.me/UniversalMoviez2)</code>
+<code>[Button Text](buttonurl:https://t.me/LazyDeveloper)</code>
 
 <b>Alert buttons:</b>
 <code>[Button Text](buttonalert:This is an alert message)</code>"""

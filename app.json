@@ -1,5 +1,5 @@
 {
-    "name": "Rocky Bhai",
+    "name": "LazyPrincess",
     "description": "When you going to send file on telegram channel this bot will save that in database, So you can search that easily in inline mode",
     "stack": "container",
     "keywords": [
@@ -15,8 +15,8 @@
       "index",
       "inline"
     ],
-    "website": "https://github.com/lazyindu/UniversalMoviez2",
-    "repository": "https://github.com/lazyindu/UniversalMoviez2",
+    "website": "https://github.com/LazyDeveloperr/LazyPrincess",
+    "repository": "https://github.com/LazyDeveloperr/LazyPrincess",
     "env": {
         "BOT_TOKEN": {
             "description": "Your bot token.",
